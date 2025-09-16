@@ -1,3 +1,5 @@
+##Execution queries:  
+
 #INSERT SOME PRODUCTS  
 INSERT INTO products (name, price, stock) VALUES  
 ('Laptop', 800.00, 10),  
